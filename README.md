@@ -97,18 +97,6 @@ Desktop application for DICOM image processing and body composition analysis.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NOT-Aayush&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-
-
----
-
 ## 📫 How to reach me?
 
 - 🌐 Portfolio: **https://aayushpandey.in**
